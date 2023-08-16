@@ -1,7 +1,7 @@
 #
 # Brandi Rosser
 # May 23, 2023
-# Lab 02 Part 3
+# 
 #
 total = float(input("Enter the total purchase amount: $"))
 member_status = input("Is the customer a loyalty program member (y/n): ")
