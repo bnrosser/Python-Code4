@@ -11,10 +11,16 @@ NOTE: Some customers aren't eligible for discounts, and the program must account
 With every purchase, Trish also must charge 6% sales tax on the total AFTER any discount.
 
 Write a program that calculates the cost for the total purchase:
+
 •	Ask the user to enter the total purchase amount. NOTE: This number could be a floating point number.
+
 •	Ask the user if the customer is in the loyalty program (see sample output).
+
 •	Calculate the total after discounts
+
 •	Calculate the amount of sales tax on the total.
+
 •	Calculate the total after discounts and tax.
+
 •	Output the total after discounts, the sales tax, and the total after discounts and tax. The program should format all money amounts that are output with 2 digits after the decimal point.
 
